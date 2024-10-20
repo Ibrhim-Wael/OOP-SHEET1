@@ -1,3 +1,14 @@
+/*5-	Write a program that used to manage HR data of department that has a team of 5 employees . the employee data like (eno,ename,job,salary ,bouns) the program should have 
+•	Function to accept the data of the employee and automatically set the salary according to the following formulas in case the 
+                                      Job=”Manager”-> salary=5000
+                                       Job=”Engineer”-> salary=3000
+                                       Job=”Clerk”-> salary=2000
+                                       Otherwise -> salary=1000
+•	Function to set the bonus value for specific employee according to specific percent (accept it from the user )
+•	Function to print out the data of all employees 
+*/ //Problem 5
+
+
 #include <iostream>
 #include <string>
 using namespace std;
